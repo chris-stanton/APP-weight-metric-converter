@@ -6,12 +6,18 @@
 ## Description:
 #### Simple application to convert pounds into grams, kilograms and ounces using HTML5, CSS3 and Javascript.
 ##### Desktop Views:
-<img src="./images/screenshot.png" width="50%">
+###### Landing View:
+<img src="./public/images/screenshots/desktop.png" width="50%">
 
-
+###### Landing View With Data:
+<img src="./public/images/screenshots/desktopData.png" width="50%">
 
 ##### Mobile Views:
-<img src="./images/mobileOne.png" width="50%">
+###### Landing View:
+<img src="./public/images/screenshots/mobile.png" width="50%">
+
+###### Landing View With Data:
+<img src="./public/images/screenshots/mobileData.png" width="50%">
 
 
 ---
